@@ -27,6 +27,7 @@
     "monaco-editor": "0.32.1",
     "monaco-editor-webpack-plugin": "7.0.1",
     "pretty-ms": "7.0.1",
+    "simple-lightbox": "2.1.0",
     "sortablejs": "1.14.0",
     "swagger-ui-dist": "4.5.2",
     "tributejs": "5.1.3",
