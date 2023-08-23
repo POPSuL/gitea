@@ -1232,6 +1232,8 @@ img.ui.avatar,
 
 .ui.menu .ui.dropdown.item .menu .item {
   width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .ui.dropdown .menu > .item > .floating.label {
